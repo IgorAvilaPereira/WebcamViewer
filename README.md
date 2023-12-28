@@ -1,14 +1,14 @@
 # WebcamViewer
 
-Para verificar qual **index** de sua webcam. 
+## Algumas outras alternativas para exibir sua webcam: 
 
-No Linux: 
+Antes, você precisa verificar qual dispositivo (webcam) deseja, através do **index**: 
+
+Para listar todos os dispositivos de vídeo no Linux: 
 
 ```bash
 sudo apt install v4l-utils && v4l2-ctl --list-devices
 ```
-
-Algumas outras alternativas para exibir sua webcam: 
 
 ```
 sudo apt install ffmpeg
