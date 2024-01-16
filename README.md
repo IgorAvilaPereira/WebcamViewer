@@ -1,6 +1,6 @@
 # WebcamViewer
 
-## Algumas outras alternativas para exibir sua webcam: 
+## Formas de como exibir sua webcam no Linux: 
 
 Antes, você precisa verificar qual dispositivo (webcam) deseja, através do **index**: 
 
