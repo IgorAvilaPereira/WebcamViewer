@@ -2,7 +2,9 @@
 
 ## Formas de como exibir sua webcam no Linux: 
 
-Antes, você precisa verificar qual dispositivo (webcam) deseja, através do **index**: 
+0) Abrir o index.html deste repositório:
+
+Para as demais alternativas, você precisa antes verificar qual dispositivo (webcam) deseja através de **index**: 
 
 Para listar todos os dispositivos de vídeo no Linux: 
 
