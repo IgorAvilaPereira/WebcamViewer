@@ -1,10 +1,12 @@
 # WebcamViewer
 
+Não sabe testar ou usar sua webcam no Linux rapidamente? Seus problemas acabaram: abaixo listo algumas formas de como usar sua webcam sem softwares burocráticos ou baixar muita coisa. Espero que curta!
+
 ## Formas de como exibir sua webcam no Linux: 
 
-0) Abrir o index.html deste repositório:
+0) Abrir o [index.html](https://htmlpreview.github.io/?https://github.com/IgorAvilaPereira/WebcamViewer/blob/main/webcam.html) deste repositório:
 
-Para as demais alternativas, você precisa antes verificar qual dispositivo (webcam) deseja através de **index**: 
+obs: Para as demais alternativas, você precisa antes verificar qual dispositivo (webcam) deseja através de **index**: 
 
 Para listar todos os dispositivos de vídeo no Linux: 
 
