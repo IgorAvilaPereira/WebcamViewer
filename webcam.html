@@ -39,7 +39,7 @@
             mediaDevices
                 .getUserMedia({
                     video: true,
-                    audio: false,
+                    audio: true,
                 })
                 .then((stream) => {
                     // Changing the source of video to current stream.
